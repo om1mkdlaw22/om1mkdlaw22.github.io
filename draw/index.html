@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Web-Based Drawing App</title>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
+
+        <link rel="stylesheet" href="css/jquery-ui.css">
+
+       
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+    <body>
+     
+        <h2>Web-Based Drawing App</h2>
+
+       
+        <div class="inputContainer" >
+
+           
+            <div class="input" id="colorInput">
+                <input type="color" list id="paintColor">      
+            </div>
+            <br /><br />
+           
+            <div class="input" id="thickenessInput">
+                <div id="circle"></div>
+            </div>
+            
+            <br />
+            <div class="input">
+                <div id="slider"></div>
+            </div>         
+        </div>        
+
+        <br />
+        <div id="canvasContainer">
+            <canvas id="paint" width="500px" height="400px"></canvas>
+        </div>
+
+       
+        <div class="btnContainer">
+           
+            <div class="btnInput">
+                <span id="erase" class="button">Erase</span>
+            </div>
+            
+            <div class="btnInput">
+                <span id="save" class="button">Save</span>
+            </div>        
+           
+            <div class="btnInput">
+                <span id="reset" class="button">Reset</span>
+            </div>       
+        </div>
+
+        
+        <script src="js/jquery.min.js"></script>
+
+        
+        <script src="js/jquery-ui.min.js"></script>
+
+       
+        <script src="js/script.js">
+        </script>
+    </body>
+</html>
