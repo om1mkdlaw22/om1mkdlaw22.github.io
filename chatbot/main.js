@@ -4,7 +4,7 @@ const msgerChat = get(".msger-chat");
 const BOT_IMG = "bot.png";
 const PERSON_IMG = "user.png";
 const BOT_NAME = "BOT";
-const PERSON_NAME = "Coderider";
+const PERSON_NAME = "Mine";
 const prompts = [
   ["hi", "hey", "hello", "good morning", "good afternoon"],
   ["how are you", "how is life", "how are things"],
