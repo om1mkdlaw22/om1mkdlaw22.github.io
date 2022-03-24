@@ -6,12 +6,12 @@ const PERSON_IMG = "user.png";
 const BOT_NAME = "BOT";
 const PERSON_NAME = "Mine";
 const prompts = [
-  ["hi", "hey", "hello", "good morning", "good afternoon"],
-  ["how are you", "how is life", "how are things"],
-  ["what are you doing", "what is going on", "what is up"],
-  ["how old are you"],
-  ["who are you", "are you human", "are you bot", "are you human or bot"],
-  ["who created you", "who made you"],
+  ["hai", "hey", "hallo", "pagi", "sore"],
+  ["bagaimana kabarmu", "bagaimana keseharianmu", "bagaimana keadaanmu"],
+  ["apa yang kamu lakukan?", "apa yang terjadi", "ada apa"],
+  ["berapa umurmu"],
+  ["siapa kamu", "kamu manusia", "apa kamu robot", "kamu manusia apa robot"],
+  ["siapa yang membuatmu", "siapa yang merancangmu"],
   [
     "your name please",
     "your name",
