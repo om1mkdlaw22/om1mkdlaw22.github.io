@@ -3,7 +3,7 @@ const msgerInput = get(".msger-input");
 const msgerChat = get(".msger-chat");
 const BOT_IMG = "bot.png";
 const PERSON_IMG = "user.png";
-const BOT_NAME = "BOT";
+const BOT_NAME = "Bot";
 const PERSON_NAME = "Mine";
 const prompts = [
   ["hai", "hey", "hallo", "pagi", "sore"],
@@ -22,7 +22,7 @@ const prompts = [
   ["i love you"],
   ["happy", "good", "fun", "wonderful", "fantastic", "cool"],
   ["bad", "bored", "tired"],
-  ["help me", "tell me story", "tell me joke"],
+  ["help me", "tell me story", "tell me joke"];
   ["ah", "yes", "ok", "okay", "nice"],
   ["bye", "good bye", "goodbye", "see you later"],
   ["what should i eat today"],
@@ -33,22 +33,22 @@ const prompts = [
   ["haha", "ha", "lol", "hehe", "funny", "joke"]
 ]
 const replies = [
-  ["Hello!", "Hi!", "Hey!", "Hi there!", "Howdy"],
+  ["Oyy!", "Haii", "Heeyy", "Hai kamuu", "Heyheyy"],
   [
-    "Fine... how are you?",
+    "Baikk... kamu gimana?",
     "Pretty well, how are you?",
-    "Fantastic, how are you?"
+    "Luar biasa, kamu gimanaa?"
   ],
   [
-    "Nothing much",
-    "About to go to sleep",
-    "Can you guess?",
-    "I don't know actually"
+    "Sedikitt",
+    "Tidur aja yukk",
+    "Coba tebak?",
+    "Aku gatau persis"
   ],
-  ["I am infinite"],
-  ["I am just a bot", "I am a bot. What are you?"],
+  ["Aku limited edition"],
+  ["Cuma bot", "Aku robot, kalau kamu?"],
   ["The one true God, JavaScript"],
-  ["I am nameless", "I don't have a name"],
+  ["Gapunya namaa", "I don't have a name"],
   ["I love you too", "Me too"],
   ["Have you ever felt bad?", "Glad to hear it"],
   ["Why?", "Why? You shouldn't!", "Try watching TV"],
