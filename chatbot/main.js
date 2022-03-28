@@ -29,7 +29,6 @@ const prompts = [
   ["bro"],
   ["what", "why", "how", "where", "when"],
   ["no", "not sure", "maybe", "no thanks"],
-  [""],
   ["haha", "ha", "lol", "hehe", "funny", "joke"]
 ]
 const replies = [
@@ -67,8 +66,8 @@ const alternative = [
   "Aku robot, aku diam",
   "Coba lagi",
   "Aku dengerin",
-  "Gak paham :/",
-]
+  "Gak paham :/"
+];
 const robot = ["How do you do, fellow human", "I am not a bot"];
 msgerForm.addEventListener("submit", event => {
   event.preventDefault();
