@@ -22,7 +22,7 @@ const prompts = [
   ["i love you"],
   ["happy", "good", "fun", "wonderful", "fantastic", "cool"],
   ["bad", "bored", "tired"],
-  ["help me", "tell me story", "tell me joke"];
+  ["help me", "tell me story", "tell me joke"],
   ["ah", "yes", "ok", "okay", "nice"],
   ["bye", "good bye", "goodbye", "see you later"],
   ["what should i eat today"],
