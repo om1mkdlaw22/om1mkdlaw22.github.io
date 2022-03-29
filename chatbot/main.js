@@ -3,7 +3,7 @@ const msgerInput = get(".msger-input");
 const msgerChat = get(".msger-chat");
 const BOT_IMG = "bot.png";
 const PERSON_IMG = "user.png";
-const BOT_NAME = "Bot";
+const BOT_NAME = "BOT";
 const PERSON_NAME = "Mine";
 const prompts = [
   ["hai", "hey", "hallo", "pagi", "sore"],
