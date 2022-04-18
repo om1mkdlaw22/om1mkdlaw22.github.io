@@ -7,8 +7,8 @@ const BOT_NAME = "BOT";
 const PERSON_NAME = "Mine";
 const prompts = [
   ["hai", "hey", "hallo", "pagi", "sore"],
-  ["bagaimana kabarmu", "bagaimana keseharianmu", "bagaimana keadaanmu"],
-  ["apa yang kamu lakukan?", "apa yang terjadi", "ada apa"],
+  ["gimana kabarmu", "bagaimana kabarmu", "bagaimana keseharianmu", "bagaimana keadaanmu"],
+  ["apa yang kamu lakukan?", "apa yang terjadi", "ada apa", "ngapain lu"],
   ["berapa umurmu"],
   ["siapa kamu", "kamu manusia", "apa kamu robot", "kamu manusia apa robot"],
   ["siapa yang membuatmu", "siapa yang merancangmu"],
