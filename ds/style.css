@@ -103,16 +103,16 @@
         font-weight: 500;
         z-index: 9;
         box-shadow: none;
-        background: #3F51B5;
+        background: #FF9800;
         text-transform: uppercase;
     }
     
     #clock #time div:last-child span{
-        background: #ff006a;
+        background: #FF9800;
     }
     
     #clock #time div:last-child span:nth-child(2){
-        background: #ec0062;
+        background: #3F51B5;
     }
     
     #clock #time div span:nth-child(1){
